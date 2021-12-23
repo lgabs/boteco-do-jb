@@ -20,4 +20,4 @@ recomendações estruturadas do [Boteco do JB](https://botecodojb.com/). A ideia
 ## Em Belém
 | Lugar | Tipo | Avaliação | Detalhes
 | --- | --- | --- | --- | 
-| [Remanso do Peixe](https://www.instagram.com/remansodopeixe/?hl=en) | Típica | :star: :star: :star: :star: :star:| Um dos melhores da cidade, muito tradicional, local familiar em uma vila, peixes, caldeiradas e outras iguarias paraenses muito saborosas e bem servidas. O preço vale a pena, principalmente para dividir.
+| [Remanso do Peixe](https://www.instagram.com/remansodopeixe/?hl=en) | Típica | 5 :star:| Um dos melhores da cidade, muito tradicional, local familiar em uma vila, peixes, caldeiradas e outras iguarias paraenses muito saborosas e bem servidas. O preço vale a pena, principalmente para dividir.
