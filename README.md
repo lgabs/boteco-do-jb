@@ -1,52 +1,61 @@
 # boteco-do-jb
-recomendações curadas e estruturadas do [Boteco do JB](https://botecodojb.com/) e algumas minhas. A ideia é estruturar links, localizações e curtas descrições. Em cada avaliação, procurei colocar o link para o instagram direto no nome do local.
+recomendações curadas e estruturadas do [Boteco do JB](https://botecodojb.com/) e algumas minhas. A ideia é estruturar links, localizações e curtas descrições. Em cada avaliação, procurei colocar o link para o instagram direto no nome do local. Lugares marcados com um ☠️ são aqueles que deve-se evitar, segundo as recomendações daqui.
 
-# Locais:
-
-| Lugar | Tipo | Fonte | Avaliação 
-| --- | --- | --- | --- | 
+# Locais
 
 ## La Guapa 
 
-## Figueira Rubayat
+## [Figueira Rubayat](https://www.instagram.com/afigueirarubaiyat/?hl=en) ☠️
 
-_Comentada em: [Blog do JB](http://botecodojb.blogspot.com/2010/07/almoco-de-quinta.html), [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)_
+Comentada em: [Blog do JB](http://botecodojb.blogspot.com/2010/07/almoco-de-quinta.html), [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)
+
+Comidas: Carnes Argentinas, Parilladas, Frutos do Mar.
 
 ## Bráz Elétrica 
 
-_Cozinha: Pizza_
+Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)
 
-_Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)_
+Comidas: Pizzas.
 
 ## [Comedoria Gonzales](https://www.instagram.com/comedoriagonzales/?hl=en)
 
-_Cozinha: Comida de Mercado inspirada na cozinha do Peru e Bolívia (Empanadas, Ceviche, Batatas etc)_
+Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)
 
-_Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)_
-
+Comidas: Comida de Mercado inspirada na cozinha do Peru e Bolívia (Empanadas, Ceviche, Batatas etc)
 
 ## [Shawarma Comida Árabe](https://www.instagram.com/aboudsiria/?hl=en) 
 
-Flow
+Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)
 
 ## [Pão com Carne](https://www.instagram.com/paocomcarne_hamburgueria/?hl=en) 
 
-Flow
+Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)
+
 ## [Patties Burger](https://www.instagram.com/pattiesburger/?hl=en) 
 
-Flow, Canal JB
+Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)_, [Canal JB](https://www.youtube.com/watch?v=41_KnhdErjs&t=871s&ab_channel=BotecodoJB)
+
+Comidas: smash and ultrasmash burgers.
 
 ## [Di Bari Pizza](https://www.instagram.com/dibaripizza/?hl=en) 
 
-| Pizza | [Canal JB](https://www.youtube.com/watch?v=kSA1xkzeZ_k&ab_channel=BotecodoJB)
+Comentada em:[Canal JB](https://www.youtube.com/watch?v=kSA1xkzeZ_k&ab_channel=BotecodoJB)
+
+Comidas: Pizzas.
 
 ## [Mercado Ver-o-Peso](https://www.instagram.com/veropesodaculturaparaense/?hl=en) 
 
-Típica, Paraense  
+Comidas: Paraense (Regional).  
 
 ## [Fel](https://www.instagram.com/fel.sp/?hl=en) 
 
 | Drinks | Flow |
+
+## [Padaria Artesanal IZA| Izabela Tavares](https://www.izapadariaartesanal.com.br/sobre)
+
+## [Mano do Céu](https://www.instagram.com/botecomanodoceu/?hl=en)
+
+Comentada em: [Canal do JB](https://www.youtube.com/watch?v=41_KnhdErjs&t=871s&ab_channel=BotecodoJB)
 
 # Recomendações Pessoais 
 
@@ -54,7 +63,7 @@ Típica, Paraense
 
 ### [Remanso do Peixe](https://www.instagram.com/remansodopeixe/?hl=en) 
 
-_Cozinha: Típica Paraense_
+Comidas: Paraense (Típica)
 
 Um dos melhores da cidade, muito tradicional, local familiar em uma vila, peixes, caldeiradas e outras iguarias paraenses muito saborosas e bem servidas. O preço vale a pena, principalmente para dividir. 
 
