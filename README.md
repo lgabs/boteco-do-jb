@@ -58,7 +58,7 @@ Um dos melhores da cidade, muito tradicional, local familiar em uma vila, peixes
 
 ## Em São José dos Campos
 
-## [_La Cucina Di Riccardo Pace_](https://www.instagram.com/lacucinadiriccardo/?hl=en)
+### [_La Cucina Di Riccardo Pace_](https://www.instagram.com/lacucinadiriccardo/?hl=en)
 _Cozinha: italiana genuína_
 
 Praticamente a melhor pizza que comi na vida (pelo mundo), definitivamente a melhor da cidade. O preço é ótimo custo benefício pela qualidade e recheios generosos. Os sabores são fora do comum (combinações incluem castanhas, outras presunto parma, pesto de salsinha e outras até pera) e a massa é crocante e saborosa. 
