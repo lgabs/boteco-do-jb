@@ -1,5 +1,5 @@
 # boteco-do-jb
-recomendações estruturadas do [Boteco do JB](https://botecodojb.com/). A ideia é estruturar links, localizações e curtas descrições.
+recomendações estruturadas do [Boteco do JB](https://botecodojb.com/) e algumas minhas. A ideia é estruturar links, localizações e curtas descrições.
 
 # Locais:
 
