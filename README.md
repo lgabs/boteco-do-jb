@@ -13,3 +13,4 @@ recomendações estruturadas do [Boteco do JB](https://botecodojb.com/). A ideia
 | [Pão com Carne](https://www.instagram.com/paocomcarne_hamburgueria/?hl=en)
 | [Patties Burger](https://www.instagram.com/pattiesburger/?hl=en)
 | [Di Bari Pizza](https://www.instagram.com/dibaripizza/?hl=en) | Pizza | [vídeo](https://www.youtube.com/watch?v=kSA1xkzeZ_k&ab_channel=BotecodoJB)
+| [Mercado Ver-o-Peso](https://www.instagram.com/veropesodaculturaparaense/?hl=en) | Típica, Paraense  
