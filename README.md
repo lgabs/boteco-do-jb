@@ -5,15 +5,16 @@ recomendações estruturadas do [Boteco do JB](https://botecodojb.com/) e alguma
 
 | Lugar | Tipo | Fonte | Avaliação 
 | --- | --- | --- | --- | 
-| La Guapa 
+| La Guapa | | Flow, outros
 | Figueira Rubayat
-| Bráz Elétrica
+| Bráz Elétrica | Pizza | Flow
 | [Comedoria Gonzales](https://www.instagram.com/comedoriagonzales/?hl=en)
-| [Shawarma Comida Árabe](https://www.instagram.com/aboudsiria/?hl=en)
-| [Pão com Carne](https://www.instagram.com/paocomcarne_hamburgueria/?hl=en)
-| [Patties Burger](https://www.instagram.com/pattiesburger/?hl=en)
+| [Shawarma Comida Árabe](https://www.instagram.com/aboudsiria/?hl=en) | | Flow
+| [Pão com Carne](https://www.instagram.com/paocomcarne_hamburgueria/?hl=en) |  |Flow
+| [Patties Burger](https://www.instagram.com/pattiesburger/?hl=en) | | Flow, Canal JB
 | [Di Bari Pizza](https://www.instagram.com/dibaripizza/?hl=en) | Pizza | [vídeo](https://www.youtube.com/watch?v=kSA1xkzeZ_k&ab_channel=BotecodoJB)
 | [Mercado Ver-o-Peso](https://www.instagram.com/veropesodaculturaparaense/?hl=en) | Típica, Paraense  
+| [Fel](https://www.instagram.com/fel.sp/?hl=en) | Drinks | Flow |
 
 # Recomendações pessoais 
 
