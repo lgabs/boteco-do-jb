@@ -12,7 +12,7 @@ recomendações estruturadas do [Boteco do JB](https://botecodojb.com/) e alguma
 | [Shawarma Comida Árabe](https://www.instagram.com/aboudsiria/?hl=en) | | Flow
 | [Pão com Carne](https://www.instagram.com/paocomcarne_hamburgueria/?hl=en) |  |Flow
 | [Patties Burger](https://www.instagram.com/pattiesburger/?hl=en) | | Flow, Canal JB
-| [Di Bari Pizza](https://www.instagram.com/dibaripizza/?hl=en) | Pizza | [vídeo](https://www.youtube.com/watch?v=kSA1xkzeZ_k&ab_channel=BotecodoJB)
+| [Di Bari Pizza](https://www.instagram.com/dibaripizza/?hl=en) | Pizza | [Canal JB](https://www.youtube.com/watch?v=kSA1xkzeZ_k&ab_channel=BotecodoJB)
 | [Mercado Ver-o-Peso](https://www.instagram.com/veropesodaculturaparaense/?hl=en) | Típica, Paraense  
 | [Fel](https://www.instagram.com/fel.sp/?hl=en) | Drinks | Flow |
 
