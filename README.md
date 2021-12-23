@@ -9,3 +9,4 @@ recomendações estruturadas do [Boteco do JB](https://botecodojb.com/). A ideia
 - [ ] [Shawarma Comida Árabe](https://www.instagram.com/aboudsiria/?hl=en)
 - [ ] [Pão com Carne](https://www.instagram.com/paocomcarne_hamburgueria/?hl=en)
 - [ ] [Patties Burger](https://www.instagram.com/pattiesburger/?hl=en)
+- [ ] [Di Bari Pizza](https://www.instagram.com/dibaripizza/?hl=en)
