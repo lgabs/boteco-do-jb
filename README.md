@@ -10,6 +10,8 @@ recomendações curadas e estruturadas do [Boteco do JB](https://botecodojb.com/
 
 ## Figueira Rubayat
 
+_Comentada em: [Blog do JB](http://botecodojb.blogspot.com/2010/07/almoco-de-quinta.html), [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)_
+
 ## Bráz Elétrica 
 
 _Cozinha: Pizza_
@@ -18,7 +20,7 @@ _Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640
 
 ## [Comedoria Gonzales](https://www.instagram.com/comedoriagonzales/?hl=en)
 
-_Cozinha: Comida de Mercado inspirada na cozinha do Peru e Bolívia (Empanadas, Ceviche, Batatas etc) _
+_Cozinha: Comida de Mercado inspirada na cozinha do Peru e Bolívia (Empanadas, Ceviche, Batatas etc)_
 
 _Comentada em: [Flow Podcast](https://www.youtube.com/watch?v=zIweg1YFOQI&t=3640s&ab_channel=FlowPodcast)_
 
