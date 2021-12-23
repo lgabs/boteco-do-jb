@@ -1,2 +1,2 @@
 # boteco-do-jb
-recomendações do Boteco do JB
+recomendações estruturadas do [Boteco do JB](https://botecodojb.com/).
